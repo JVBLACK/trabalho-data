@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    height: 1600px;
+}
+
+
+.logo {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+
+li{
+    list-style: none;
+}
+
+.topo{
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.frase{
+    margin-top:70px;
+    color: aliceblue;
+}
+
+nav{
+    padding: 10px;
+    background-color: rgb(22, 68, 204);
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: aliceblue;
+    font-size: 20px; 
+}
+
+.what:hover {
+    text-decoration: underline;
+}
+
+.what {
+    text-decoration: none;
+    color: aliceblue;
+}
+.datas:hover {
+    text-decoration: underline;
+}
+
+.datas {
+    text-decoration: none;
+    color: aliceblue;
+}
+.counters:hover {
+    text-decoration: underline;
+}
+
+.counters {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+h1 {
+    margin-top: 120px;
+    margin-bottom: 100px;
+    margin-left: 340px;
+    font-size: 45px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 340px;
+    margin-right: 360px;
+}
+
+h2 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 340px;
+    font-size: 35;
+    color: black;
+}
+
+.info {
+    margin-left: 540px;
+    max-width:700px;
+    max-height:575px;
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.fontes{
+    font-size: 10px;
+}
